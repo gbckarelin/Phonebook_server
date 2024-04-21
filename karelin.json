@@ -1,0 +1,42 @@
+[
+    {
+        "nickname": "Voditel",
+        "phone_number": "+7495000000",
+        "info": {
+            "first_name": "Andrey",
+            "last_name": "Andreevich",
+            "middle_name": "",
+            "note": ""
+        }
+    },
+    {
+        "nickname": "mom",
+        "phone_number": "+79600641122",
+        "info": {
+            "first_name": "",
+            "last_name": "",
+            "middle_name": "",
+            "note": ""
+        }
+    },
+    {
+        "nickname": "brat",
+        "phone_number": "+71234567890",
+        "info": {
+            "first_name": "Maksim",
+            "last_name": "Maksimov",
+            "middle_name": "Vladimirovich",
+            "note": "qqq"
+        }
+    },
+    {
+        "nickname": "Я",
+        "phone_number": "+79600761033",
+        "info": {
+            "first_name": "Алексей",
+            "last_name": "Рычков",
+            "middle_name": "Андреевич",
+            "note": ""
+        }
+    }
+]
