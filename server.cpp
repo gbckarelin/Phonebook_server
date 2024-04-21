@@ -4,7 +4,7 @@
 #include <unistd.h>
 #include <cstring>
 #include <fstream>
-#include "lib/json/single_include/nlohmann/json.hpp"
+#include "json/single_include/nlohmann/json.hpp"
 #include <thread>
 using json = nlohmann::json;
 const int PORT = 8080;
