@@ -102,7 +102,7 @@ def show_menu():
     print("1. Add a new contact")
     print("2. Delete a contact")
     print("3. Find a contact")
-    print("4. Watch")
+    print("4. Show all contacts")
     print("====================\n")
     choice = input("Enter your choice: ")
     return choice.strip()
