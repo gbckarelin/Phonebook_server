@@ -1,7 +1,3 @@
-Received message: 
-Failed to find JSON data in request
-Buffer Clear
-
 Received message: {"username": "karelin", "action": "add_contact", "nickname": "Voditel", "phone_number": "+7495000000", "info": {"first_name": "Andrey", "last_name": "Andreevich", "middle_name": "", "note": ""}}
 Contact added successfully to karelin.json
 Buffer Clear
@@ -21,4 +17,3 @@ Buffer Clear
 Received message: {"username": "karelin", "action": "listing_contacts"}
 Found contacts sent to client
 Buffer Clear
-

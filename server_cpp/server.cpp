@@ -4,7 +4,7 @@
 #include <unistd.h>
 #include <cstring>
 #include <fstream>
-#include "json/single_include/nlohmann/json.hpp"
+#include "../json/single_include/nlohmann/json.hpp"
 #include <thread>
 using json = nlohmann::json;
 const int PORT = 8080;
@@ -430,7 +430,7 @@ void acceptConnections(int serverSocket, std::ofstream &logfile)
 
 int main()
 {
-    std::ofstream logfile("server.log", std::ios::app);
+    std::ofstream logfile("server_cpp/logs/server.log", std::ios::app);
     if (!logfile.is_open())
     {
         std::cerr << "Failed to open log file" << std::endl;
